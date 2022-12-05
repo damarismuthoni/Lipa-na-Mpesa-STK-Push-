@@ -1,0 +1,24 @@
+{
+  "name": "darajampesaapi",
+  "version": "1.0.0",
+  "description": "A simple node project to consume daraja api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "mpesa",
+    "safaricom",
+    "mpesa",
+    "api"
+  ],
+  "author": "\"damaris muthoni\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongose": "0.0.2-security",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
